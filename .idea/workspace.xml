@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c4bfda5-6158-45d0-8b7b-5bd63718a5d5" name="Default Changelist" comment="" />
+    <list default="true" id="0c4bfda5-6158-45d0-8b7b-5bd63718a5d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/co.uk.motors/co.uk.motors.features/CustomerCanSearchForMonthlyPrice.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co.uk.motors/co.uk.motors.features/CustomerCanSignIn.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co.uk.motors/co.uk.motors.features/CustomerCanSearchForPrice.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co.uk.motors/co.uk.motors.features/CustomerCanSearchForPrice.feature" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +17,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UIOJpYyF7ETlaBjUSdrpX9qFlo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/co.uk.motors/co.uk.motors.features" />
